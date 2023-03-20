@@ -17,4 +17,4 @@ Para executar o projeto localmente, recomenda-se utilizar o json-server para sim
 <br><br>
 Então, na sua IDE, você deverá abrir o projeto de testes, acessar a feature e executar a funcionalidade. O resultado obtido deverá ser similar a este:
 <br>
-<img src="https://github.com/fernandamullerb/automated-tests/blob/main/tests_execution_.png" alt="tests_execution"/>
+<img src="https://github.com/fernandamullerb/automated-tests/blob/main/tests_execution.png" alt="tests_execution"/>
